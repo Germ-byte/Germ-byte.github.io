@@ -5,6 +5,14 @@
     <url>/2020/12/13/%E5%8D%A1%E5%B8%83%E5%A5%87%E8%AF%BA%E7%9A%84%E7%94%9F%E6%B4%BB/</url>
     <content><![CDATA[<p>Welcome to 卡布奇诺的生活</p>
 ]]></content>
+      <categories>
+        <category>卡布奇诺的生活</category>
+      </categories>
+      <tags>
+        <tag>游戏</tag>
+        <tag>青春</tag>
+        <tag>篮球</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -28,7 +36,8 @@
         <category>卡布奇诺的生活</category>
       </categories>
       <tags>
-        <tag>标签1</tag>
+        <tag>运动</tag>
+        <tag>游戏</tag>
       </tags>
   </entry>
 </search>

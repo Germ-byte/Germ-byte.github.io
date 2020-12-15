@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-13T08:15:00.583Z</updated>
+  <updated>2020-12-14T15:57:21.956Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2020/12/13/%E5%8D%A1%E5%B8%83%E5%A5%87%E8%AF%BA%E7%9A%84%E7%94%9F%E6%B4%BB/"/>
     <id>http://example.com/2020/12/13/%E5%8D%A1%E5%B8%83%E5%A5%87%E8%AF%BA%E7%9A%84%E7%94%9F%E6%B4%BB/</id>
     <published>2020-12-13T08:10:54.061Z</published>
-    <updated>2020-12-13T08:15:00.583Z</updated>
+    <updated>2020-12-14T15:57:21.956Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to 卡布奇诺的生活</p>]]></content>
     
@@ -34,6 +34,14 @@
     
     
     
+    <category term="卡布奇诺的生活" scheme="http://example.com/categories/%E5%8D%A1%E5%B8%83%E5%A5%87%E8%AF%BA%E7%9A%84%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="游戏" scheme="http://example.com/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+    <category term="青春" scheme="http://example.com/tags/%E9%9D%92%E6%98%A5/"/>
+    
+    <category term="篮球" scheme="http://example.com/tags/%E7%AF%AE%E7%90%83/"/>
     
   </entry>
   
@@ -42,7 +50,7 @@
     <link href="http://example.com/2020/12/13/hello-world/"/>
     <id>http://example.com/2020/12/13/hello-world/</id>
     <published>2020-12-13T03:35:26.860Z</published>
-    <updated>2020-12-14T05:31:46.912Z</updated>
+    <updated>2020-12-14T15:53:54.678Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><a id="more"></a><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -55,7 +63,9 @@
     <category term="卡布奇诺的生活" scheme="http://example.com/categories/%E5%8D%A1%E5%B8%83%E5%A5%87%E8%AF%BA%E7%9A%84%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="标签1" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    <category term="运动" scheme="http://example.com/tags/%E8%BF%90%E5%8A%A8/"/>
+    
+    <category term="游戏" scheme="http://example.com/tags/%E6%B8%B8%E6%88%8F/"/>
     
   </entry>
   
