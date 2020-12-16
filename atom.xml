@@ -37,9 +37,9 @@
     <category term="卡布奇诺的生活" scheme="http://example.com/categories/%E5%8D%A1%E5%B8%83%E5%A5%87%E8%AF%BA%E7%9A%84%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="青春" scheme="http://example.com/tags/%E9%9D%92%E6%98%A5/"/>
-    
     <category term="游戏" scheme="http://example.com/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+    <category term="青春" scheme="http://example.com/tags/%E9%9D%92%E6%98%A5/"/>
     
     <category term="篮球" scheme="http://example.com/tags/%E7%AF%AE%E7%90%83/"/>
     
@@ -63,9 +63,9 @@
     <category term="卡布奇诺的生活" scheme="http://example.com/categories/%E5%8D%A1%E5%B8%83%E5%A5%87%E8%AF%BA%E7%9A%84%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="游戏" scheme="http://example.com/tags/%E6%B8%B8%E6%88%8F/"/>
-    
     <category term="运动" scheme="http://example.com/tags/%E8%BF%90%E5%8A%A8/"/>
+    
+    <category term="游戏" scheme="http://example.com/tags/%E6%B8%B8%E6%88%8F/"/>
     
   </entry>
   
