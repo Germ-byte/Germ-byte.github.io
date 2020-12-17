@@ -2050,7 +2050,7 @@ img: hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff5cc4;
+  background: #bf4129;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3353,4 +3353,17 @@ img: hover {
   padding: 25px;
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
+}
+body::before {
+  background-image: url("/images/20190918192138990.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  content: " ";
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -2;
 }
